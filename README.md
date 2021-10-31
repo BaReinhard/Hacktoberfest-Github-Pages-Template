@@ -1,4 +1,7 @@
 # Hacktoberfest-Github-Pages-Template
+
+No longer active!
+
 This is a Repo to help with displaying multiple files in the repo onto a webpage. This has been used with a few repositories, [Mathematics](http://brettreinhard.com/Hacktoberfest-Mathematics) , [Data Structures and Algorithms](http://brettreinhard.com/Hacktoberfest-Data-Structure-and-Algorithms), [Arduino](http://brettreinhard.com/Hacktoberfest-Arduino).
 
 The folder file structure to work with this template is as follows:
